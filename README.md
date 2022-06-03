@@ -2,6 +2,8 @@
 
 A simple landing page for the [Huff Language](https://github.com/huff-language).
 
+This repo has moved to [huff-language/huff-web](https://github.com/huff-language/huff-web).
+
 ## Get Started
 Install yarn if you haven't already:
 ```shell
